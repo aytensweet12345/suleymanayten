@@ -1,2 +1,2 @@
 print("hello world")
-print("ayxan sus")
+print("ayxan susuytuyg")
